@@ -1,3 +1,6 @@
+2024.05.21 
+Author: Qiang Wang
+
 # EASNet
 EASNet: Searching Elastic and Accurate Network Architecture for Stereo Matching (ECCV 2022)
 [[arXiv]]() [[Video]]()
